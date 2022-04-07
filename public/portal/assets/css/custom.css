@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+.navbar-brand img {
+    height: 2.3rem;
+
+}
+
+
+.navbar-brand {
+    display: inline-block;
+     padding-top: 5px;
+     padding-bottom: 6px;
+}
